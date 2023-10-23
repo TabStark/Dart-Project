@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'dart:math';
+
 
 num input() {
   print("Enter The Number:");
